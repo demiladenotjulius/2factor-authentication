@@ -10,11 +10,12 @@ This is a starter template for building MVC (Model-View-Controller) applications
 - Middleware for authentication and logging
 - Basic security best practices
 - Utility functions
+- two factor authentication
 - Unit and integration testing setup
 - Comprehensive documentation
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/kobiowuquadri/express-mvc-starter.git`
+1. Clone the repository: `git clone https://github.com/demiladenotjulius/2factor-authentication`
 2. Install dependencies: `npm install`
 3. Create a `.env` file and configure your environment variables
 4. Start the server: `npm run dev`
